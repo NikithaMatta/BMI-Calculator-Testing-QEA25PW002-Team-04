@@ -1,0 +1,13 @@
+{
+  "title": "About BMI",
+  "sections": [
+    "What is BMI?",
+    "Why is BMI Important?"
+  ],
+  "expectedTexts": {
+    "whatIsBMI": 
+      "Body Mass Index (BMI) is a numerical value derived from a person's weight and height. It helps categorize individuals into weight ranges such as underweight, normal weight, overweight, and obese.",
+    "whyImportant": 
+      "BMI is a quick and easy screening tool to identify potential weight-related health issues. It helps individuals and healthcare providers assess whether a person is at a healthy weight and can guide decisions about lifestyle changes or further medical evaluation"
+  }
+}

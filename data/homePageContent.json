@@ -1,0 +1,9 @@
+{
+  "expectedTexts": {
+    "welcomeMessage": "Welcome to the BMI Calculator"
+  },
+  "urls": {
+    "calculator": "/calculator",
+    "about": "/about"
+  }
+}
