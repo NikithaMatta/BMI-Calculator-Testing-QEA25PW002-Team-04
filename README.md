@@ -16,14 +16,10 @@ Automated testing project for a BMI Calculator web application, developed during
 ## 🗂️ Folder Structure
 
 ```
-├── allure-report/        # Generated Allure report
-├── allure-results/       # Raw results for Allure
 ├── data/                 # Test data and expected results
 ├── keywords/             # Reusable test actions and logic
 ├── pages/                # Page Object Model classes
-├── playwright-report/    # Playwright HTML report
 ├── screenshots/          # Screenshots captured during test runs
-├── test-results/         # Raw test result files
 ├── tests/                # Test scripts
 ├── utils/                # Utility functions and helpers
 ├── BMICalculator.xlsx    # Test document with scenarios, cases, defects, RTM
